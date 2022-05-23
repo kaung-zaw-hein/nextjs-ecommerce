@@ -213,7 +213,7 @@ text-align: end;
 .footer-banner-container{
   padding: 100px 40px;
   background-color: #2db9f0;
-  border-radius: 15px 15px 0 0;
+  border-radius: 15px;
   position: relative;
   height: 400px;
   line-height: 1; 
