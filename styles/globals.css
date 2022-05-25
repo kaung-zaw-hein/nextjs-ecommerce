@@ -236,6 +236,7 @@ text-align: end;
   font-size: 18px;
   font-weight: 500;
   cursor: pointer;
+  z-index: 10000 !important;
 }
 .banner-desc .left h3{
   font-weight: 900;
@@ -251,6 +252,7 @@ text-align: end;
   left: 8%; */
   top: -25%;
   left: 25%;
+  width:35%;
 }
 .banner-desc .right{
   line-height: 1.4;
