@@ -1,3 +1,6 @@
+# React Practice Code Challenge - Ecommerce APP (9/30) 30 react project
+![image](https://user-images.githubusercontent.com/62888962/170172626-bb4d739b-9068-4b1d-825b-e789bfdb4837.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
